@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+.poppins-font{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: .2rem;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+}
+
+.backing-color {
+    background-color: #284B63;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.centering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
