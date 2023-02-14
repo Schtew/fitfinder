@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/fitfinder/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "6a53fb629fb6fef95e6c5208158c9df0",
+    "revision": "c92df73a0739f74e47f616854a225932",
     "url": "/fitfinder/index.html"
   }
 ];

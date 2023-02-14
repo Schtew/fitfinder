@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fitfinder/precache-manifest.207452c8c25cc0afe5f9de9471936cf8.js"
+  "/fitfinder/precache-manifest.caa7add6d7a3e8372115306e1f9ffe3e.js"
 );
 
 workbox.clientsClaim();
